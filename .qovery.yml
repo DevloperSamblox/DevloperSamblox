@@ -1,0 +1,11 @@
+---
+application:
+  name: "devlopersamblox"
+  project: "CloudRobot"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-devlopersamblox"
+  routes:
+  - application_name: "devlopersamblox"
+    paths:
+    - "/*"
